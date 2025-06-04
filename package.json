@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/odio-amet-eos-fugit",
-  "version": "13.40.355",
+  "version": "13.40.356",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -126,5 +126,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/odio-amet-eos-fugit/issues"
   },
-  "packageManager": "yarn@4.9.1"
+  "packageManager": "yarn@4.9.2"
 }
